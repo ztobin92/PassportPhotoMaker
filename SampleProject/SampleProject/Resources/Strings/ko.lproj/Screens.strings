@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "계속";
+"privacy" = "개인정보 보호정책";
+"terms" = "이용 약관";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "무제한 여권 사진";
+"Paywall.advantage.2" = "사진 크기 조정";
+"Paywall.advantage.3" = "편집하다 포토";
+"Paywall.advantage.4" = "언제든지 취소 가능";
+
+"Paywall.title.1" = "무제한 접근";
+"Paywall.title.2" = "모든 기능에";
+
+"Paywall.week" = "주";
+
+"Paywall.yearly" = "3일 무료";
+"Paywall.yearly.price" = "그 후 %@/년";
+
+"Paywall.weekly" = "주간 플랜";
+"Paywall.weekly.price" = "%@/주";
+
+// MARK: - Alert
+"Alert.welcome.title" = "환영합니다!";
+"Alert.welcome.desc" = "저희를 도와주세요! 저희 앱은 완전히 무료이며, 귀하의 평가는 앱을 무료로 유지하는 데 도움이 됩니다";
+"Alert.welcome.yes" = "앱 평가하기 🎉";
+"Alert.welcome.no" = "아뇨, 고마워요";
+
+"Alert.camera.title" = "카메라 사용 불가";
+"Alert.camera.desc" = "이 기능을 사용하려면 설정으로 이동하여 카메라 접근을 허용해야 합니다.";
+"Alert.camera.ok" = "확인";
+"Alert.camera.settings" = "설정";
+
+"Alert.camera.error" = "배경을 제거하는 동안 오류가 발생했습니다.";
+
+// MARK: - Export
+"Export.title" = "사진 내보내기";
+"Export.desc" = "축하합니다! 사진이 준비되었습니다.\n이제 내보낼 방법을 선택하세요";
+
+"Export.download" = "다운로드";
+"Export.download.desc" = "갤러리에 다운로드";
+
+"Export.download.alert.title" = "사진이 다운로드되었습니다!";
+"Export.download.alert.desc" = "사진이 갤러리에 성공적으로 저장되었습니다.";
+
+"Export.print" = "인쇄";
+"Export.print.desc" = "프린터로 인쇄";
+
+"Export.share" = "공유";
+"Export.share.desc" = "친구와 공유";
+
+// MARK: - Edit
+"Edit.instructions.1" = "완료되면 여기를 탭하세요.";
+"Edit.instructions.2" = "손가락을 이용해 사진을 확대 또는 축소할 수 있습니다.";
+"Edit.instructions.3" = "더 자세하고 맞춤화된 크기 조정을 보려면 여기를 탭하세요.";
+
+"Edit.Done" = "완료";
+"Edit.Ok" = "확인";
+
+"Edit.Color" = "색상";
+"Edit.Resize" = "크기 조정";
+"Edit.Filter" = "필터";
+
+"Edit.title" = "사진 편집";
+
+// MARK: - Processing
+"Processing.title" = "처리 중";
+"Processing.desc" = "사진 배경을 제거하는 중입니다. 잠시만 기다려 주세요.";
+
+// MARK: - Settings
+"Settings.title" = "설정";
+
+"Settings.unlock" = "프리미엄 잠금 해제";
+"Settings.rate" = "당신의 사랑을 공유하세요";
+"Settings.share" = "우리를 공유";
+"Settings.contact" = "고객 지원";
+
+// MARK: - Home
+"Home.title" = "여권 사진";
+"Home.desc" = "사진 선택부터 시작합시다";
+
+"Home.photo.title" = "사진 촬영";
+"Home.photo.desc" = "카메라로 사진 촬영";
+
+"Home.gallery.title" = "갤러리";
+"Home.gallery.desc" = "iPhone 갤러리에서 사진 가져오기";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "iCloud 갤러리에서 사진 가져오기";
+
+// MARK: - Rating
+"Rating.download.title" = "사진이 다운로드됨 🎉";
+"Rating.download.desc" = "사진을 다운로드했습니다. 이제 “사진” 앱에서 사진을 볼 수 있습니다.";
+
+"Rating.share.title" = "사진이 공유됨 🎉";
+"Rating.share.desc" = "여권 사진을 성공적으로 공유했습니다!";
+
+"Rating.print.title" = "사진 인쇄됨 🎉";
+"Rating.print.desc" = "여권 사진을 성공적으로 인쇄했습니다!";
+
+"Rating.ready.title" = "사진 준비 완료 🎉";
+"Rating.ready.desc" = "여권 사진이 준비되었습니다! 이제 다운로드, 공유 및 인쇄할 수 있습니다. 저희 앱을 평가해 주세요.";
+
+"Rating.onboard.title" = "저희가 성장할 수 있도록 도와주세요 🙏";
+"Rating.onboard.desc" = "저희에게 사랑을 보여주실 수 있나요?";
+
+"Rating.sure" = "물론이죠!";
+"Rating.great" = "좋아요!";
+"Rating.next" = "다음번에";
+
+"Language.title" = "언어 변경";

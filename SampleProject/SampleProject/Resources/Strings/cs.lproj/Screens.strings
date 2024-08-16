@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Pokračovat";
+"privacy" = "Zásady ochrany osobních údajů";
+"terms" = "Podmínky použití";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Neomezené pasové fotografie";
+"Paywall.advantage.2" = "Změnit velikost fotografií";
+"Paywall.advantage.3" = "Upravit fotografie";
+"Paywall.advantage.4" = "Zrušit kdykoliv";
+
+"Paywall.title.1" = "Neomezený přístup";
+"Paywall.title.2" = "ke všem funkcím";
+
+"Paywall.week" = "týden";
+
+"Paywall.yearly" = "3 dny zdarma";
+"Paywall.yearly.price" = "pak %@/rok";
+
+"Paywall.weekly" = "Týdenní plán";
+"Paywall.weekly.price" = "%@/týden";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Vítejte!";
+"Alert.welcome.desc" = "Pomozte nám! Naše aplikace je zcela zdarma a vaše hodnocení nám pomůže udržet aplikaci zdarma";
+"Alert.welcome.yes" = "Ohodnotit aplikaci 🎉";
+"Alert.welcome.no" = "Ne, díky";
+
+"Alert.camera.title" = "Kamera nedostupná";
+"Alert.camera.desc" = "Musíte přejít do Nastavení a povolit přístup ke kameře, abyste mohli tuto funkci používat.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Nastavení";
+
+"Alert.camera.error" = "Došlo k chybě při odstraňování pozadí.";
+
+// MARK: - Export
+"Export.title" = "Exportovat fotografii";
+"Export.desc" = "Gratulujeme! Vaše fotografie je připravena.\nNyní vyberte, jak ji chcete exportovat";
+
+"Export.download" = "Stáhnout";
+"Export.download.desc" = "Stáhnout do galerie";
+
+"Export.download.alert.title" = "Fotografie stažena!";
+"Export.download.alert.desc" = "Vaše fotografie byla úspěšně uložena do galerie.";
+
+"Export.print" = "Tisknout";
+"Export.print.desc" = "Tisknout s vaší tiskárnou";
+
+"Export.share" = "Sdílet";
+"Export.share.desc" = "Sdílet s přáteli";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Klepněte zde, když skončíte.";
+"Edit.instructions.2" = "Můžete prsty přibližovat a oddalovat fotografii.";
+"Edit.instructions.3" = "Klepněte zde pro podrobnější a vlastní změnu velikosti.";
+
+"Edit.Done" = "Hotovo";
+"Edit.Ok" = "Ok";
+
+"Edit.Color" = "Barva";
+"Edit.Resize" = "Změnit velikost";
+"Edit.Filter" = "Filtr";
+
+"Edit.title" = "Upravit svou fotografii";
+
+// MARK: - Processing
+"Processing.title" = "Zpracování";
+"Processing.desc" = "Pracujeme na odstranění pozadí vaší fotografie. Počkejte prosím několik okamžiků.";
+
+// MARK: - Settings
+"Settings.title" = "Nastavení";
+
+"Settings.unlock" = "Odemknout Premium";
+"Settings.rate" = "Sdílejte svou lásku";
+"Settings.share" = "Sdílejte nás";
+"Settings.contact" = "Zákaznická podpora";
+
+// MARK: - Home
+"Home.title" = "Fotografie na pas";
+"Home.desc" = "Začněme výběrem vaší fotografie";
+
+"Home.photo.title" = "Vyfotit";
+"Home.photo.desc" = "Pořídit fotografii pomocí kamery";
+
+"Home.gallery.title" = "Galerie";
+"Home.gallery.desc" = "Importovat fotografii z galerie iPhone";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Importovat fotografii z galerie iCloud";
+
+// MARK: - Rating
+"Rating.download.title" = "Fotografie stažena 🎉";
+"Rating.download.desc" = "Fotografii jste stáhli. Nyní si můžete prohlédnout svou fotografii v aplikaci „Fotky“.";
+
+"Rating.share.title" = "Fotografie sdílena 🎉";
+"Rating.share.desc" = "Úspěšně jste sdíleli svou fotografii na pas!";
+
+"Rating.print.title" = "Fotografie vytištěna 🎉";
+"Rating.print.desc" = "Úspěšně jste vytiskli svou fotografii na pas!";
+
+"Rating.ready.title" = "Vaše fotografie je připravena 🎉";
+"Rating.ready.desc" = "Vaše fotografie na pas je připravena! Nyní můžete stáhnout, sdílet a tisknout. Prosím, věnujte chvíli naší aplikaci a ohodnoťte nás";
+
+"Rating.onboard.title" = "Prosím, pomozte nám růst 🙏";
+"Rating.onboard.desc" = "Můžete nám projevit trochu lásky?";
+
+"Rating.sure" = "Jistě!";
+"Rating.great" = "Skvělé!";
+"Rating.next" = "Příště";
+
+"Language.title" = "Změnit jazyk";

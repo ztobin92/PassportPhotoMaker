@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Weiter";
+"privacy" = "Datenschutzrichtlinie";
+"terms" = "Nutzungsbedingungen";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Unbegrenzte Passfotos";
+"Paywall.advantage.2" = "Größe von Fotos ändern";
+"Paywall.advantage.3" = "Fotos bearbeiten";
+"Paywall.advantage.4" = "Jederzeit kündigen";
+
+"Paywall.title.1" = "Unbegrenzter Zugriff";
+"Paywall.title.2" = "auf alle Funktionen";
+
+"Paywall.week" = "Woche";
+
+"Paywall.yearly" = "3 Tage kostenlos";
+"Paywall.yearly.price" = "danach %@/Jahr";
+
+"Paywall.weekly" = "Wöchentlicher Plan";
+"Paywall.weekly.price" = "%@/Woche";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Willkommen!";
+"Alert.welcome.desc" = "Helfen Sie uns! Unsere App ist komplett kostenlos und Ihre Bewertung hilft uns, die App kostenlos zu halten";
+"Alert.welcome.yes" = "App bewerten 🎉";
+"Alert.welcome.no" = "Nein, danke";
+
+"Alert.camera.title" = "Kamera nicht verfügbar";
+"Alert.camera.desc" = "Sie müssen in die Einstellungen gehen und den Zugriff auf die Kamera erlauben, um diese Funktion zu nutzen.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Einstellungen";
+
+"Alert.camera.error" = "Beim Entfernen des Hintergrunds ist ein Fehler aufgetreten.";
+
+// MARK: - Export
+"Export.title" = "Foto exportieren";
+"Export.desc" = "Herzlichen Glückwunsch! Ihr Foto ist fertig.\nWählen Sie jetzt, wie Sie exportieren möchten";
+
+"Export.download" = "Herunterladen";
+"Export.download.desc" = "In die Galerie herunterladen";
+
+"Export.download.alert.title" = "Foto heruntergeladen!";
+"Export.download.alert.desc" = "Ihr Foto wurde erfolgreich in der Galerie gespeichert.";
+
+"Export.print" = "Drucken";
+"Export.print.desc" = "Mit Ihrem Drucker drucken";
+
+"Export.share" = "Teilen";
+"Export.share.desc" = "Mit Freunden teilen";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Tippen Sie hier, wenn Sie fertig sind.";
+"Edit.instructions.2" = "Sie können mit den Fingern das Foto zoomen.";
+"Edit.instructions.3" = "Tippen Sie hier für detaillierteres und benutzerdefiniertes Ändern der Größe.";
+
+"Edit.Done" = "Fertig";
+"Edit.Ok" = "Ok";
+
+"Edit.Color" = "Farbe";
+"Edit.Resize" = "Größe ändern";
+"Edit.Filter" = "Filter";
+
+"Edit.title" = "Foto bearbeiten";
+
+// MARK: - Processing
+"Processing.title" = "Verarbeitung";
+"Processing.desc" = "Wir arbeiten daran, den Hintergrund Ihres Fotos zu entfernen. Bitte warten Sie einen Moment.";
+
+// MARK: - Settings
+"Settings.title" = "Einstellungen";
+
+"Settings.unlock" = "Premium freischalten";
+"Settings.rate" = "Teile deine Liebe";
+"Settings.share" = "Teilen Sie uns";
+"Settings.contact" = "Kundensupport";
+
+// MARK: - Home
+"Home.title" = "Passfoto";
+"Home.desc" = "Beginnen wir mit der Auswahl Ihres Fotos";
+
+"Home.photo.title" = "Foto aufnehmen";
+"Home.photo.desc" = "Foto mit der Kamera aufnehmen";
+
+"Home.gallery.title" = "Galerie";
+"Home.gallery.desc" = "Foto aus der iPhone-Galerie importieren";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Foto aus der iCloud-Galerie importieren";
+
+// MARK: - Rating
+"Rating.download.title" = "Foto heruntergeladen 🎉";
+"Rating.download.desc" = "Sie haben das Foto heruntergeladen. Jetzt können Sie Ihr Foto in der „Fotos“ App sehen.";
+
+"Rating.share.title" = "Foto geteilt 🎉";
+"Rating.share.desc" = "Sie haben Ihr Passfoto erfolgreich geteilt!";
+
+"Rating.print.title" = "Foto gedruckt 🎉";
+"Rating.print.desc" = "Sie haben Ihr Passfoto erfolgreich gedruckt!";
+
+"Rating.ready.title" = "Ihr Foto ist fertig 🎉";
+"Rating.ready.desc" = "Ihr Passfoto ist fertig! Jetzt können Sie es herunterladen, teilen und drucken. Bitte nehmen Sie sich einen Moment Zeit, um uns zu bewerten";
+
+"Rating.onboard.title" = "Bitte helfen Sie uns zu wachsen 🙏";
+"Rating.onboard.desc" = "Können Sie uns etwas Liebe zeigen?";
+
+"Rating.sure" = "Klar!";
+"Rating.great" = "Großartig!";
+"Rating.next" = "Nächstes Mal";
+
+"Language.title" = "Sprache ändern";

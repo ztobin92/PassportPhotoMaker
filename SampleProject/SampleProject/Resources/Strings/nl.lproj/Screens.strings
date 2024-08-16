@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Doorgaan";
+"privacy" = "Privacybeleid";
+"terms" = "Gebruiksvoorwaarden";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Onbeperkt pasfoto's";
+"Paywall.advantage.2" = "Foto's Formaat wijzigen";
+"Paywall.advantage.3" = "Foto's bewerken";
+"Paywall.advantage.4" = "Op elk moment annuleren";
+
+"Paywall.title.1" = "Onbeperkte toegang";
+"Paywall.title.2" = "tot alle functies";
+
+"Paywall.week" = "week";
+
+"Paywall.yearly" = "3 dagen gratis";
+"Paywall.yearly.price" = "daarna %@/jaar";
+
+"Paywall.weekly" = "Wekelijks abonnement";
+"Paywall.weekly.price" = "%@/week";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Welkom!";
+"Alert.welcome.desc" = "Help ons! Onze app is volledig gratis en uw beoordeling helpt ons om de app gratis te houden";
+"Alert.welcome.yes" = "Beoordeel de app 🎉";
+"Alert.welcome.no" = "Nee, bedankt";
+
+"Alert.camera.title" = "Camera niet beschikbaar";
+"Alert.camera.desc" = "Je moet naar de instellingen gaan en toegang tot de camera toestaan om deze functie te gebruiken.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Instellingen";
+
+"Alert.camera.error" = "Er is een fout opgetreden bij het verwijderen van de achtergrond.";
+
+// MARK: - Export
+"Export.title" = "Foto exporteren";
+"Export.desc" = "Gefeliciteerd! Je foto is klaar.\nKies nu hoe je wilt exporteren";
+
+"Export.download" = "Downloaden";
+"Export.download.desc" = "Downloaden naar galerij";
+
+"Export.download.alert.title" = "Foto gedownload!";
+"Export.download.alert.desc" = "Je foto is succesvol opgeslagen in de galerij.";
+
+"Export.print" = "Afdrukken";
+"Export.print.desc" = "Afdrukken met je printer";
+
+"Export.share" = "Delen";
+"Export.share.desc" = "Delen met je vrienden";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Tik hier wanneer je klaar bent.";
+"Edit.instructions.2" = "Je kunt met je vingers knijpen om in en uit te zoomen op de foto.";
+"Edit.instructions.3" = "Tik hier voor meer gedetailleerd en aangepast formaat aanpassen.";
+
+"Edit.Done" = "Klaar";
+"Edit.Ok" = "Ok";
+
+"Edit.Color" = "Kleur";
+"Edit.Resize" = "Formaat wijzigen";
+"Edit.Filter" = "Filter";
+
+"Edit.title" = "Bewerk je foto";
+
+// MARK: - Processing
+"Processing.title" = "Verwerken";
+"Processing.desc" = "We zijn bezig met het verwijderen van de achtergrond van je foto. Even geduld alsjeblieft.";
+
+// MARK: - Settings
+"Settings.title" = "Instellingen";
+
+"Settings.unlock" = "Ontgrendel Premium";
+"Settings.rate" = "Deel je liefde";
+"Settings.share" = "Deel ons";
+"Settings.contact" = "Klantenondersteuning";
+
+// MARK: - Home
+"Home.title" = "Pasfoto";
+"Home.desc" = "Laten we beginnen met het selecteren van je foto";
+
+"Home.photo.title" = "Foto maken";
+"Home.photo.desc" = "Maak een foto met de camera";
+
+"Home.gallery.title" = "Galerij";
+"Home.gallery.desc" = "Importeer een foto uit de iPhone galerij";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Importeer een foto uit de iCloud galerij";
+
+// MARK: - Rating
+"Rating.download.title" = "Foto gedownload 🎉";
+"Rating.download.desc" = "Je hebt de foto gedownload. Nu kun je je foto bekijken in de “Foto's” app.";
+
+"Rating.share.title" = "Foto gedeeld 🎉";
+"Rating.share.desc" = "Je hebt je pasfoto succesvol gedeeld!";
+
+"Rating.print.title" = "Foto afgedrukt 🎉";
+"Rating.print.desc" = "Je hebt je pasfoto succesvol afgedrukt!";
+
+"Rating.ready.title" = "Je foto is klaar 🎉";
+"Rating.ready.desc" = "Je pasfoto is klaar! Nu kun je deze downloaden, delen en afdrukken. Neem alsjeblieft een moment om ons te beoordelen";
+
+"Rating.onboard.title" = "Help ons groeien 🙏";
+"Rating.onboard.desc" = "Kun je ons wat liefde tonen?";
+
+"Rating.sure" = "Zeker!";
+"Rating.great" = "Geweldig!";
+"Rating.next" = "Volgende keer";
+
+"Language.title" = "Taal wijzigen";

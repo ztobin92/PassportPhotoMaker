@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Continua";
+"privacy" = "Informativa sulla privacy";
+"terms" = "Termini di utilizzo";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Foto del passaporto illimitate";
+"Paywall.advantage.2" = "Ridimensiona le foto";
+"Paywall.advantage.3" = "Modifica le foto";
+"Paywall.advantage.4" = "Annulla in qualsiasi momento";
+
+"Paywall.title.1" = "Accesso illimitato";
+"Paywall.title.2" = "a tutte le funzionalità";
+
+"Paywall.week" = "settimana";
+
+"Paywall.yearly" = "3 giorni gratis";
+"Paywall.yearly.price" = "poi %@/anno";
+
+"Paywall.weekly" = "Piano settimanale";
+"Paywall.weekly.price" = "%@/settimana";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Benvenuto!";
+"Alert.welcome.desc" = "Aiutaci! La nostra app è completamente gratuita e il tuo recensione ci aiuterà a mantenerla gratuita";
+"Alert.welcome.yes" = "Vota l'app 🎉";
+"Alert.welcome.no" = "No, grazie";
+
+"Alert.camera.title" = "Camera non disponibile";
+"Alert.camera.desc" = "È necessario andare nelle impostazioni e consentire l'accesso alla fotocamera per utilizzare questa funzione.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Impostazioni";
+
+"Alert.camera.error" = "Si è verificato un errore durante la rimozione dello sfondo.";
+
+// MARK: - Export
+"Export.title" = "Esporta Foto";
+"Export.desc" = "Congratulazioni! La tua foto è pronta.\nOra, scegli come vuoi esportarla";
+
+"Export.download" = "Scarica";
+"Export.download.desc" = "Scarica nella galleria";
+
+"Export.download.alert.title" = "Foto scaricata!";
+"Export.download.alert.desc" = "La tua foto è stata salvata correttamente nella galleria.";
+
+"Export.print" = "Stampa";
+"Export.print.desc" = "Stampa con la tua stampante";
+
+"Export.share" = "Condividi";
+"Export.share.desc" = "Condividi con i tuoi amici";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Tocca qui quando hai finito.";
+"Edit.instructions.2" = "Puoi pizzicare con le dita per ingrandire e ridurre la foto.";
+"Edit.instructions.3" = "Tocca qui per un ridimensionamento più dettagliato e personalizzato.";
+
+"Edit.Done" = "Fatto";
+"Edit.Ok" = "OK";
+
+"Edit.Color" = "Colore";
+"Edit.Resize" = "Ridimensiona";
+"Edit.Filter" = "Filtro";
+
+"Edit.title" = "Modifica la tua foto";
+
+// MARK: - Processing
+"Processing.title" = "Elaborazione";
+"Processing.desc" = "Stiamo lavorando per rimuovere lo sfondo della tua foto. Attendi qualche istante.";
+
+// MARK: - Settings
+"Settings.title" = "Impostazioni";
+
+"Settings.unlock" = "Sblocca Premium";
+"Settings.rate" = "Condividi il tuo amore";
+"Settings.share" = "Condividi noi";
+"Settings.contact" = "Supporto clienti";
+
+// MARK: - Home
+"Home.title" = "Foto Passaporto";
+"Home.desc" = "Iniziamo selezionando la tua foto";
+
+"Home.photo.title" = "Scatta Foto";
+"Home.photo.desc" = "Scatta una foto dalla fotocamera";
+
+"Home.gallery.title" = "Galleria";
+"Home.gallery.desc" = "Importa una foto dalla Galleria di iPhone";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Importa una foto dalla Galleria di iCloud";
+
+// MARK: - Rating
+"Rating.download.title" = "Foto Scaricata 🎉";
+"Rating.download.desc" = "Hai scaricato la foto. Ora puoi vedere la tua foto dall'app “Foto”.";
+
+"Rating.share.title" = "Foto Condivisa 🎉";
+"Rating.share.desc" = "Hai condiviso con successo la tua foto per il passaporto!";
+
+"Rating.print.title" = "Foto Stampata 🎉";
+"Rating.print.desc" = "Hai stampato con successo la tua foto per il passaporto!";
+
+"Rating.ready.title" = "La Tua Foto è Pronta 🎉";
+"Rating.ready.desc" = "La tua foto per il passaporto è pronta! Ora puoi scaricare, condividere e stampare. Per favore, prenditi un momento per darci un voto";
+
+"Rating.onboard.title" = "Per favore aiutaci a crescere 🙏";
+"Rating.onboard.desc" = "Puoi mostrarci un po' d'amore?";
+
+"Rating.sure" = "Certamente!";
+"Rating.great" = "Fantastico!";
+"Rating.next" = "La prossima volta";
+
+"Language.title" = "Cambia Lingua";

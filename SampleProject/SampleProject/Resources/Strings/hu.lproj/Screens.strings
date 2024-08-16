@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Folytatás";
+"privacy" = "Adatvédelmi irányelvek";
+"terms" = "Felhasználási feltételek";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Korlátlan útlevél fénykép";
+"Paywall.advantage.2" = "Fotók átméretezése";
+"Paywall.advantage.3" = "Fotók szerkesztése";
+"Paywall.advantage.4" = "Bármikor lemondható";
+
+"Paywall.title.1" = "Korlátlan hozzáférés";
+"Paywall.title.2" = "az összes funkcióhoz";
+
+"Paywall.week" = "hét";
+
+"Paywall.yearly" = "3 nap ingyenes";
+"Paywall.yearly.price" = "aztán %@/év";
+
+"Paywall.weekly" = "Heti terv";
+"Paywall.weekly.price" = "%@/hét";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Üdvözlet!";
+"Alert.welcome.desc" = "Segíts nekünk! Az app teljesen ingyenes, és az értékelésed segít nekünk abban, hogy ingyenes maradhasson";
+"Alert.welcome.yes" = "Értékelje az appot 🎉";
+"Alert.welcome.no" = "Nem, köszönöm";
+
+"Alert.camera.title" = "Kamera nem elérhető";
+"Alert.camera.desc" = "A funkció használatához engedélyeznie kell a kamera hozzáférést a Beállításokban.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Beállítások";
+
+"Alert.camera.error" = "Hiba történt a háttér eltávolítása közben.";
+
+// MARK: - Export
+"Export.title" = "Fénykép exportálása";
+"Export.desc" = "Gratulálunk! A fényképed elkészült.\nMost válaszd ki, hogyan szeretnéd exportálni";
+
+"Export.download" = "Letöltés";
+"Export.download.desc" = "Letöltés a galériába";
+
+"Export.download.alert.title" = "Fénykép letöltve!";
+"Export.download.alert.desc" = "A fényképed sikeresen mentve lett a galériába.";
+
+"Export.print" = "Nyomtatás";
+"Export.print.desc" = "Nyomtatás a nyomtatóddal";
+
+"Export.share" = "Megosztás";
+"Export.share.desc" = "Megosztás barátaiddal";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Érintsd meg ide, ha kész vagy.";
+"Edit.instructions.2" = "Az ujjaival összecsípve nagyíthatja és kicsinyítheti a fényképet.";
+"Edit.instructions.3" = "Érintsd meg ide részletesebb és testreszabott méretezéshez.";
+
+"Edit.Done" = "Kész";
+"Edit.Ok" = "Rendben";
+
+"Edit.Color" = "Szín";
+"Edit.Resize" = "Átméretezés";
+"Edit.Filter" = "Szűrő";
+
+"Edit.title" = "Fénykép szerkesztése";
+
+// MARK: - Processing
+"Processing.title" = "Feldolgozás";
+"Processing.desc" = "Dolgozunk a fénykép háttértörlésén. Kérlek, várj néhány pillanatot.";
+
+// MARK: - Settings
+"Settings.title" = "Beállítások";
+
+"Settings.unlock" = "Prémium feloldása";
+"Settings.rate" = "Oszd meg szeretetedet";
+"Settings.share" = "Ossz meg minket";
+"Settings.contact" = "Vevőszolgálat";
+
+// MARK: - Home
+"Home.title" = "Útlevél fénykép";
+"Home.desc" = "Kezdjük a fénykép kiválasztásával";
+
+"Home.photo.title" = "Fénykép készítése";
+"Home.photo.desc" = "Fénykép készítése a kamerával";
+
+"Home.gallery.title" = "Galéria";
+"Home.gallery.desc" = "Fénykép importálása az iPhone Galériából";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Fénykép importálása az iCloud Galériából";
+
+// MARK: - Rating
+"Rating.download.title" = "Fénykép letöltve 🎉";
+"Rating.download.desc" = "Letöltötted a fényképet. Most már megtekintheted a fényképed az „Fényképek” appban.";
+
+"Rating.share.title" = "Fénykép megosztva 🎉";
+"Rating.share.desc" = "Sikeresen megosztottad az útlevél fényképed!";
+
+"Rating.print.title" = "Fénykép kinyomtatva 🎉";
+"Rating.print.desc" = "Sikeresen kinyomtattad az útlevél fényképed!";
+
+"Rating.ready.title" = "A fényképed elkészült 🎉";
+"Rating.ready.desc" = "Az útlevél fényképed kész! Most letöltheted, megoszthatod és kinyomtathatod. Kérlek, szánj egy pillanatot arra, hogy értékelj minket";
+
+"Rating.onboard.title" = "Kérem Segíts nekünk fejlődni 🙏";
+"Rating.onboard.desc" = "Mutatnál egy kis szerelmet nekünk?";
+
+"Rating.sure" = "Biztos!";
+"Rating.great" = "Nagyszerű!";
+"Rating.next" = "Következő alkalommal";
+
+"Language.title" = "Nyelv váltása";
