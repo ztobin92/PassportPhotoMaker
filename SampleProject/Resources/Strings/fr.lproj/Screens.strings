@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Continuer";
+"privacy" = "Politique de Confidentialité";
+"terms" = "Conditions d'Utilisation";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Photo de Passeport Illimitée";
+"Paywall.advantage.2" = "Redimensionner les Photos";
+"Paywall.advantage.3" = "Modifier les Photos";
+"Paywall.advantage.4" = "Annuler à tout moment";
+
+"Paywall.title.1" = "Accès Illimité";
+"Paywall.title.2" = "à Toutes les Fonctionnalités";
+
+"Paywall.week" = "semaine";
+
+"Paywall.yearly" = "3 Jours Gratuits";
+"Paywall.yearly.price" = "puis %@/an";
+
+"Paywall.weekly" = "Plan Hebdomadaire";
+"Paywall.weekly.price" = "%@/semaine";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Bienvenue !";
+"Alert.welcome.desc" = "Aidez-nous ! Notre application est complètement gratuite et votre évaluation nous aidera à la maintenir gratuite";
+"Alert.welcome.yes" = "Évaluer l'application 🎉";
+"Alert.welcome.no" = "Non, Merci";
+
+"Alert.camera.title" = "Caméra Indisponible";
+"Alert.camera.desc" = "Vous devez aller dans les Réglages et autoriser l'accès à la Caméra pour utiliser cette fonctionnalité.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Réglages";
+
+"Alert.camera.error" = "Une erreur est survenue lors de la suppression de l'arrière-plan.";
+
+// MARK: - Export
+"Export.title" = "Exporter la Photo";
+"Export.desc" = "Félicitations ! Votre photo est prête.\nMaintenant, choisissez comment vous voulez l'exporter";
+
+"Export.download" = "Télécharger";
+"Export.download.desc" = "Télécharger dans la galerie";
+
+"Export.download.alert.title" = "Photo Téléchargée !";
+"Export.download.alert.desc" = "Votre photo a été enregistrée avec succès dans la galerie.";
+
+"Export.print" = "Imprimer";
+"Export.print.desc" = "Imprimer avec votre imprimante";
+
+"Export.share" = "Partager";
+"Export.share.desc" = "Partager avec vos amis";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Appuyez ici lorsque vous avez terminé.";
+"Edit.instructions.2" = "Vous pouvez pincer avec vos doigts pour zoomer et dézoomer la photo.";
+"Edit.instructions.3" = "Appuyez ici pour un redimensionnement plus détaillé et personnalisé.";
+
+"Edit.Done" = "Terminé";
+"Edit.Ok" = "Ok";
+
+"Edit.Color" = "Couleur";
+"Edit.Resize" = "Redimensionner";
+"Edit.Filter" = "Filtre";
+
+"Edit.title" = "Modifier votre photo";
+
+// MARK: - Processing
+"Processing.title" = "Traitement";
+"Processing.desc" = "Nous travaillons sur la suppression de l'arrière-plan de votre photo. Veuillez patienter quelques instants.";
+
+// MARK: - Settings
+"Settings.title" = "Paramètres";
+
+"Settings.unlock" = "Débloquer Premium";
+"Settings.rate" = "Partagez votre amour";
+"Settings.share" = "Partagez-nous";
+"Settings.contact" = "Assistance Clientèle";
+
+// MARK: - Home
+"Home.title" = "Photo de Passeport";
+"Home.desc" = "Commençons par sélectionner votre photo";
+
+"Home.photo.title" = "Prendre une Photo";
+"Home.photo.desc" = "Prendre une photo avec l'appareil photo";
+
+"Home.gallery.title" = "Galerie";
+"Home.gallery.desc" = "Importer une photo depuis la galerie de l'iPhone";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Importer une photo depuis la galerie iCloud";
+
+// MARK: - Rating
+"Rating.download.title" = "Photo Téléchargé 🎉";
+"Rating.download.desc" = "Vous avez téléchargé la photo. Maintenant, vous pouvez voir votre photo dans l'application “Photos”.";
+
+"Rating.share.title" = "Photo Partagée 🎉";
+"Rating.share.desc" = "Vous avez partagé votre photo de passeport avec succès !";
+
+"Rating.print.title" = "Photo Imprimée 🎉";
+"Rating.print.desc" = "Vous avez imprimé votre photo de passeport avec succès !";
+
+"Rating.ready.title" = "Votre Photo est Prête 🎉";
+"Rating.ready.desc" = "Votre photo de passeport est prête ! Maintenant, vous pouvez télécharger, partager et imprimer. Veuillez prendre un moment pour nous évaluer";
+
+"Rating.onboard.title" = "S'il te plaît Aidez-nous à grandir 🙏";
+"Rating.onboard.desc" = "Pouvez-vous nous montrer un peu d'amour ?";
+
+"Rating.sure" = "Bien sûr !";
+"Rating.great" = "Génial !";
+"Rating.next" = "La prochaine fois";
+
+"Language.title" = "Changer de Langue";

@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Continuar";
+"privacy" = "Política de Privacidade";
+"terms" = "Termos de Uso";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Foto de Passaporte Ilimitada";
+"Paywall.advantage.2" = "Redimensionar Fotos";
+"Paywall.advantage.3" = "Editar Fotos";
+"Paywall.advantage.4" = "Cancelar a Qualquer Momento";
+
+"Paywall.title.1" = "Acesso Ilimitado";
+"Paywall.title.2" = "a Todos os Recursos";
+
+"Paywall.week" = "semana";
+
+"Paywall.yearly" = "3 Dias Gratuitos";
+"Paywall.yearly.price" = "depois %@/ano";
+
+"Paywall.weekly" = "Plano Semanal";
+"Paywall.weekly.price" = "%@/semana";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Bem-vindo!";
+"Alert.welcome.desc" = "Nos ajude! Nosso aplicativo é completamente gratuito e sua avaliação nos ajudará a mantê-lo gratuito";
+"Alert.welcome.yes" = "Avaliar o app 🎉";
+"Alert.welcome.no" = "Não, Obrigado";
+
+"Alert.camera.title" = "Câmera Indisponível";
+"Alert.camera.desc" = "Você precisa ir para Configurações e permitir o acesso à Câmera para usar esta funcionalidade.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Configurações";
+
+"Alert.camera.error" = "Ocorreu um erro ao remover o fundo.";
+
+// MARK: - Export
+"Export.title" = "Exportar Foto";
+"Export.desc" = "Parabéns! Sua foto está pronta.\nAgora, escolha como você quer exportar";
+
+"Export.download" = "Baixar";
+"Export.download.desc" = "Baixar para a galeria";
+
+"Export.download.alert.title" = "Foto Baixada!";
+"Export.download.alert.desc" = "Sua foto foi salva com sucesso na galeria.";
+
+"Export.print" = "Imprimir";
+"Export.print.desc" = "Imprimir com sua Impressora";
+
+"Export.share" = "Compartilhar";
+"Export.share.desc" = "Compartilhar com seus Amigos";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Toque aqui quando terminar.";
+"Edit.instructions.2" = "Você pode pinçar com os dedos para ampliar e reduzir a foto.";
+"Edit.instructions.3" = "Toque aqui para redimensionar de forma mais detalhada e personalizada.";
+
+"Edit.Done" = "Concluído";
+"Edit.Ok" = "Ok";
+
+"Edit.Color" = "Cor";
+"Edit.Resize" = "Redimensionar";
+"Edit.Filter" = "Filtro";
+
+"Edit.title" = "Edite Sua Foto";
+
+// MARK: - Processing
+"Processing.title" = "Processando";
+"Processing.desc" = "Estamos trabalhando para remover o fundo da sua foto. Por favor, aguarde alguns momentos.";
+
+// MARK: - Settings
+"Settings.title" = "Configurações";
+
+"Settings.unlock" = "Unlock Premium";
+"Settings.rate" = "Share Your Love";
+"Settings.share" = "Share Us";
+"Settings.contact" = "Customer Support";
+
+// MARK: - Home
+"Home.title" = "Foto de Passaporte";
+"Home.desc" = "Vamos começar selecionando sua foto";
+
+"Home.photo.title" = "Tirar Foto";
+"Home.photo.desc" = "Tire uma foto com a câmera";
+
+"Home.gallery.title" = "Galeria";
+"Home.gallery.desc" = "Importar uma foto da Galeria do iPhone";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Importar uma foto da Galeria do iCloud";
+
+// MARK: - Rating
+"Rating.download.title" = "Foto Baixada 🎉";
+"Rating.download.desc" = "Você baixou a foto. Agora você pode ver sua foto no aplicativo “Fotos”.";
+
+"Rating.share.title" = "Foto Compartilhada 🎉";
+"Rating.share.desc" = "Você compartilhou sua foto de passaporte com sucesso!";
+
+"Rating.print.title" = "Foto Impressa 🎉";
+"Rating.print.desc" = "Você imprimiu sua foto de passaporte com sucesso!";
+
+"Rating.ready.title" = "Sua Foto está Pronta 🎉";
+"Rating.ready.desc" = "Sua foto de passaporte está pronta! Agora você pode baixar, compartilhar e imprimir. Por favor, reserve um momento para nos avaliar";
+
+"Rating.onboard.title" = "Por favor, nos ajude a crescer 🙏";
+"Rating.onboard.desc" = "Pode nos mostrar um pouco de amor?";
+
+"Rating.sure" = "Claro!";
+"Rating.great" = "Ótimo!";
+"Rating.next" = "Próxima Vez";
+
+"Language.title" = "Mudar Idioma";

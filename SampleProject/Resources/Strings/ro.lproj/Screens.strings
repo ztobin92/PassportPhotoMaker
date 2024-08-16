@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Continuă";
+"privacy" = "Politica de Confidențialitate";
+"terms" = "Termeni de Utilizare";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Fotografie de Pașaport Nelimitată";
+"Paywall.advantage.2" = "Redimensionează Fotografiile";
+"Paywall.advantage.3" = "Editează Fotografiile";
+"Paywall.advantage.4" = "Anulează oricând";
+
+"Paywall.title.1" = "Acces Nelimitat";
+"Paywall.title.2" = "la Toate Funcțiile";
+
+"Paywall.week" = "săptămână";
+
+"Paywall.yearly" = "3 Zile Gratuit";
+"Paywall.yearly.price" = "apoi %@/an";
+
+"Paywall.weekly" = "Plan Săptămânal";
+"Paywall.weekly.price" = "%@/săptămână";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Bine ai venit!";
+"Alert.welcome.desc" = "Ajută-ne! Aplicația noastră este complet gratuită și evaluarea ta ne va ajuta să o menținem gratuită";
+"Alert.welcome.yes" = "Evaluează aplicația 🎉";
+"Alert.welcome.no" = "Nu, Mulțumesc";
+
+"Alert.camera.title" = "Cameră Indisponibilă";
+"Alert.camera.desc" = "Trebuie să mergi la Setări și să permiți accesul la Cameră pentru a utiliza această funcție.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Setări";
+
+"Alert.camera.error" = "A apărut o eroare la eliminarea fundalului.";
+
+// MARK: - Export
+"Export.title" = "Exportă Fotografia";
+"Export.desc" = "Felicitări! Fotografia ta este gata.\nAcum, alege cum vrei să o exporți";
+
+"Export.download" = "Descarcă";
+"Export.download.desc" = "Descarcă în galerie";
+
+"Export.download.alert.title" = "Fotografie Descărcată!";
+"Export.download.alert.desc" = "Fotografia ta a fost salvată cu succes în galerie.";
+
+"Export.print" = "Printează";
+"Export.print.desc" = "Printează cu imprimanta ta";
+
+"Export.share" = "Distribuie";
+"Export.share.desc" = "Distribuie cu prietenii tăi";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Atinge aici când ai terminat.";
+"Edit.instructions.2" = "Poți ciupi cu degetele pentru a mări și micșora fotografia.";
+"Edit.instructions.3" = "Atinge aici pentru redimensionare mai detaliată și personalizată.";
+
+"Edit.Done" = "Gata";
+"Edit.Ok" = "Ok";
+
+"Edit.Color" = "Culoare";
+"Edit.Resize" = "Redimensionează";
+"Edit.Filter" = "Filtru";
+
+"Edit.title" = "Editează Fotografia Ta";
+
+// MARK: - Processing
+"Processing.title" = "Procesare";
+"Processing.desc" = "Lucrăm la eliminarea fundalului fotografiei tale. Te rugăm să aștepți câteva momente.";
+
+// MARK: - Settings
+"Settings.title" = "Setări";
+
+"Settings.unlock" = "Deblochează Premium";
+"Settings.rate" = "Împărtășește-ți dragostea";
+"Settings.share" = "Distribuie-ne";
+"Settings.contact" = "Asistență pentru Clienți";
+
+// MARK: - Home
+"Home.title" = "Fotografie pentru Pașaport";
+"Home.desc" = "Să începem prin a selecta fotografia ta";
+
+"Home.photo.title" = "Fă o Fotografie";
+"Home.photo.desc" = "Fă o fotografie cu camera";
+
+"Home.gallery.title" = "Galerie";
+"Home.gallery.desc" = "Importă o fotografie din Galeria iPhone";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Importă o fotografie din Galeria iCloud";
+
+// MARK: - Rating
+"Rating.download.title" = "Fotografie Descărcată 🎉";
+"Rating.download.desc" = "Ai descărcat fotografia. Acum poți vedea fotografia ta în aplicația „Fotografii”.";
+
+"Rating.share.title" = "Fotografie Distribuită 🎉";
+"Rating.share.desc" = "Ai distribuit cu succes fotografia ta pentru pașaport!";
+
+"Rating.print.title" = "Fotografie Printată 🎉";
+"Rating.print.desc" = "Ai printat cu succes fotografia ta pentru pașaport!";
+
+"Rating.ready.title" = "Fotografia ta este Gata 🎉";
+"Rating.ready.desc" = "Fotografia ta pentru pașaport este gata! Acum poți descărca, distribui și printa. Te rugăm să acorzi un moment pentru a ne evalua";
+
+"Rating.onboard.title" = "Te rugăm să ne ajuți să creștem 🙏";
+"Rating.onboard.desc" = "Poți să ne arăți puțină dragoste?";
+
+"Rating.sure" = "Sigur!";
+"Rating.great" = "Minunat!";
+"Rating.next" = "Data viitoare";
+
+"Language.title" = "Schimbă Limba";

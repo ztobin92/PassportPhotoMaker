@@ -1,0 +1,120 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "続ける";
+"privacy" = "プライバシーポリシー";
+"terms" = "利用規約";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "無制限のパスポート写真";
+"Paywall.advantage.2" = "写真のサイズ変更";
+"Paywall.advantage.3" = "写真の編集";
+"Paywall.advantage.4" = "いつでもキャンセル可能";
+
+"Paywall.title.1" = "無制限アクセス";
+"Paywall.title.2" = "にすべての機能に";
+
+"Paywall.week" = "週";
+
+"Paywall.yearly" = "3日間無料";
+"Paywall.yearly.price" = "その後%@/年";
+
+"Paywall.weekly" = "週ごとのプラン";
+"Paywall.weekly.price" = "%@/週";
+
+// MARK: - Alert
+"Alert.welcome.title" = "ようこそ!";
+"Alert.welcome.desc" = "助けてください！私たちのアプリは完全に無料で、あなたの評価はアプリを無料のままにするのに役立ちます";
+"Alert.welcome.yes" = "アプリを評価する 🎉";
+"Alert.welcome.no" = "結構です";
+
+"Alert.camera.title" = "カメラが利用できません";
+"Alert.camera.desc" = "設定に行き、カメラへのアクセスを許可する必要があります。";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "設定";
+
+"Alert.camera.error" = "背景を削除中にエラーが発生しました。";
+
+// MARK: - Export
+"Export.title" = "写真をエクスポート";
+"Export.desc" = "おめでとうございます！写真の準備ができました。\n次に、エクスポート方法を選択してください";
+
+"Export.download" = "ダウンロード";
+"Export.download.desc" = "ギャラリーにダウンロード";
+
+"Export.download.alert.title" = "写真がダウンロードされました！";
+"Export.download.alert.desc" = "写真がギャラリーに正常に保存されました。";
+
+"Export.print" = "印刷";
+"Export.print.desc" = "で印刷あなたのプリンター";
+
+"Export.share" = "共有";
+"Export.share.desc" = "友達と共有";
+
+// MARK: - Edit
+"Edit.instructions.1" = "終了したらここをタップ。";
+"Edit.instructions.2" = "指でつまんで写真をズームイン・ズームアウトできます。";
+"Edit.instructions.3" = "より詳細でカスタムのリサイズにはここをタップ。";
+
+"Edit.Done" = "完了";
+"Edit.Ok" = "OK";
+
+"Edit.Color" = "色";
+"Edit.Resize" = "リサイズ";
+"Edit.Filter" = "フィルター";
+
+"Edit.title" = "写真を編集する";
+
+// MARK: - Processing
+"Processing.title" = "処理中";
+"Processing.desc" = "写真の背景を削除しています。少々お待ちください。";
+
+// MARK: - Settings
+"Settings.title" = "設定";
+
+"Settings.unlock" = "プレミアムをアンロック";
+"Settings.rate" = "あなたの愛を分かち合いましょう";
+"Settings.share" = "私たちをシェア";
+"Settings.contact" = "カスタマーサポート";
+
+// MARK: - Home
+"Home.title" = "パスポート写真";
+"Home.desc" = "写真を選択して始めましょう";
+
+"Home.photo.title" = "写真を撮る";
+"Home.photo.desc" = "カメラで写真を撮る";
+
+"Home.gallery.title" = "ギャラリー";
+"Home.gallery.desc" = "iPhoneギャラリーから写真をインポート";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "iCloudギャラリーから写真をインポート";
+
+// MARK: - Rating
+"Rating.download.title" = "写真がダウンロードされました 🎉";
+"Rating.download.desc" = "写真をダウンロードしました。「写真」アプリで写真を見ることができます。";
+
+"Rating.share.title" = "写真が共有されました 🎉";
+"Rating.share.desc" = "パスポート写真を正常に共有しました！";
+
+"Rating.print.title" = "写真が印刷されました 🎉";
+"Rating.print.desc" = "パスポート写真を正常に印刷しました！";
+
+"Rating.ready.title" = "写真の準備ができました 🎉";
+"Rating.ready.desc" = "パスポート写真の準備ができました！ダウンロード、共有、印刷ができます。ぜひ評価をお願いします";
+
+"Rating.onboard.title" = "成長を助けてください 🙏";
+"Rating.onboard.desc" = "私たちに愛情を示してもらえますか？";
+
+"Rating.sure" = "もちろん！";
+"Rating.great" = "素晴らしい！";
+"Rating.next" = "次回";
+
+// MARK: - Language
+"Language.title" = "言語を変更";

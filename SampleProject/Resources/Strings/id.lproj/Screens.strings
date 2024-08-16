@@ -1,0 +1,119 @@
+/*
+  Screens.strings
+  SampleProject
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Lanjutkan";
+"privacy" = "Kebijakan Privasi";
+"terms" = "Syarat Penggunaan";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Foto Paspor Tanpa Batas";
+"Paywall.advantage.2" = "Ubah Ukuran Foto";
+"Paywall.advantage.3" = "Edit Foto";
+"Paywall.advantage.4" = "Batal kapan saja";
+
+"Paywall.title.1" = "Akses Tanpa Batas";
+"Paywall.title.2" = "ke Semua Fitur";
+
+"Paywall.week" = "minggu";
+
+"Paywall.yearly" = "3 Hari Gratis";
+"Paywall.yearly.price" = "kemudian %@/tahun";
+
+"Paywall.weekly" = "Paket Mingguan";
+"Paywall.weekly.price" = "%@/minggu";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Selamat Datang!";
+"Alert.welcome.desc" = "Bantu kami! Aplikasi kami benar-benar gratis dan penilaian Anda akan membantu kami untuk tetap menjaga aplikasi tetap gratis";
+"Alert.welcome.yes" = "Nilai aplikasinya 🎉";
+"Alert.welcome.no" = "Tidak, Terima kasih";
+
+"Alert.camera.title" = "Kamera Tidak Tersedia";
+"Alert.camera.desc" = "Anda perlu pergi ke Pengaturan dan mengizinkan akses ke Kamera untuk menggunakan fitur ini.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Pengaturan";
+
+"Alert.camera.error" = "Terjadi kesalahan saat menghapus latar belakang.";
+
+// MARK: - Export
+"Export.title" = "Ekspor Foto";
+"Export.desc" = "Selamat! Foto Anda sudah siap.\nPilih cara untuk mengekspor";
+
+"Export.download" = "Unduh";
+"Export.download.desc" = "Unduh ke galeri";
+
+"Export.download.alert.title" = "Foto Diunduh!";
+"Export.download.alert.desc" = "Foto Anda berhasil disimpan di galeri.";
+
+"Export.print" = "Cetak";
+"Export.print.desc" = "Cetak dengan printer Anda";
+
+"Export.share" = "Bagikan";
+"Export.share.desc" = "Bagikan dengan Teman Anda";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Ketuk di sini jika sudah selesai.";
+"Edit.instructions.2" = "Anda dapat mencubit dengan jari untuk memperbesar atau memperkecil foto.";
+"Edit.instructions.3" = "Ketuk di sini untuk pengubahan ukuran yang lebih detail.";
+
+"Edit.Done" = "Selesai";
+"Edit.Ok" = "OK";
+
+"Edit.Color" = "Warna";
+"Edit.Resize" = "Ubah Ukuran";
+"Edit.Filter" = "Filter";
+
+"Edit.title" = "Edit Foto Anda";
+
+// MARK: - Processing
+"Processing.title" = "Pemrosesan";
+"Processing.desc" = "Kami sedang menghapus latar belakang foto Anda. Mohon tunggu beberapa saat.";
+
+// MARK: - Settings
+"Settings.title" = "Pengaturan";
+
+"Settings.unlock" = "Buka Kunci Premium";
+"Settings.rate" = "Bagikan Cinta Anda";
+"Settings.share" = "Bagikan kami";
+"Settings.contact" = "Dukungan Pelanggan";
+
+// MARK: - Home
+"Home.title" = "Foto Paspor";
+"Home.desc" = "Mari mulai dengan memilih foto Anda";
+
+"Home.photo.title" = "Ambil Foto";
+"Home.photo.desc" = "Ambil foto dari kamera";
+
+"Home.gallery.title" = "Galeri";
+"Home.gallery.desc" = "Impor foto dari Galeri iPhone";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Impor foto dari Galeri iCloud";
+
+// MARK: - Rating
+"Rating.download.title" = "Foto Diunduh 🎉";
+"Rating.download.desc" = "Anda telah mengunduh foto. Sekarang Anda dapat melihat foto Anda dari aplikasi “Foto”.";
+
+"Rating.share.title" = "Foto Dibagikan 🎉";
+"Rating.share.desc" = "Anda telah berhasil membagikan foto paspor Anda!";
+
+"Rating.print.title" = "Foto Dicetak 🎉";
+"Rating.print.desc" = "Anda telah berhasil mencetak foto paspor Anda!";
+
+"Rating.ready.title" = "Foto Anda Siap 🎉";
+"Rating.ready.desc" = "Foto paspor Anda sudah siap! Sekarang Anda dapat mengunduh, membagikan, dan mencetak. Mohon luangkan waktu sebentar untuk memberi kami penilaian";
+
+"Rating.onboard.title" = "Tolong bantu kami untuk berkembang 🙏";
+"Rating.onboard.desc" = "Bisakah Anda memberi kami sedikit cinta?";
+
+"Rating.sure" = "Tentu!";
+"Rating.great" = "Bagus!";
+"Rating.next" = "Lain Kali";
+
+"Language.title" = "Ubah Bahasa";

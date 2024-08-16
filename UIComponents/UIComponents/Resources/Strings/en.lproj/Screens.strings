@@ -1,0 +1,119 @@
+/* 
+  Screens.strings
+  UIComponents
+
+  Created by Bora Erdem on 4.06.2024.
+  Copyright © 2024 Mobillium. All rights reserved.
+*/
+
+// MARK: - General
+"continue" = "Continue";
+"privacy" = "Privacy Policy";
+"terms" = "Terms of Use";
+
+// MARK: - Paywall
+"Paywall.advantage.1" = "Unlimited Passport Photo";
+"Paywall.advantage.2" = "Resize Photos";
+"Paywall.advantage.3" = "Edit Photos";
+"Paywall.advantage.4" = "Cancel anytime";
+
+"Paywall.title.1" = "Unlimited Access";
+"Paywall.title.2" = "to All Features";
+
+"Paywall.week" = "week";
+
+"Paywall.yearly" = "3 Days Free";
+"Paywall.yearly.price" = "then %@/year";
+
+"Paywall.weekly" = "Weekly Plan";
+"Paywall.weekly.price" = "%@/week";
+
+// MARK: - Alert
+"Alert.welcome.title" = "Welcome!";
+"Alert.welcome.desc" = "Help us out! Our app is completely free and your rating will help us to keep the app free";
+"Alert.welcome.yes" = "Rate the app 🎉";
+"Alert.welcome.no" = "No, Thanks";
+
+"Alert.camera.title" = "Camera Unavailable";
+"Alert.camera.desc" = "You need to go to Settings and allow access to Camera to use this feature.";
+"Alert.camera.ok" = "OK";
+"Alert.camera.settings" = "Settings";
+
+"Alert.camera.error" = "An error occurred while removing the background.";
+
+// MARK: - Export
+"Export.title" = "Export Photo";
+"Export.desc" = "Congratulations! Your photo is ready.\nNow, choose how you want to export";
+
+"Export.download" = "Download";
+"Export.download.desc" = "Download to gallery";
+
+"Export.download.alert.title" = "Photo Downloaded!";
+"Export.download.alert.desc" = "Your photo has been successfully saved to the gallery.";
+
+"Export.print" = "Print";
+"Export.print.desc" = "Print with your Printer";
+
+"Export.share" = "Share";
+"Export.share.desc" = "Share with your Friends";
+
+// MARK: - Edit
+"Edit.instructions.1" = "Tap here when you are done.";
+"Edit.instructions.2" = "You can pinch with your fingers to zoom in and out the photo.";
+"Edit.instructions.3" = "Tap here for more detailed and custom resizing.";
+
+"Edit.Done" = "Done";
+"Edit.Ok" = "Ok";
+
+"Edit.Color" = "Color";
+"Edit.Resize" = "Resize";
+"Edit.Filter" = "Filter";
+
+"Edit.title" = "Edit Your Photo";
+
+// MARK: - Processing
+"Processing.title" = "Processing";
+"Processing.desc" = "We're working on remove your photo background. Please wait a few moments.";
+
+// MARK: - Settings
+"Settings.title" = "Settings";
+
+"Settings.unlock" = "Unlock Premium";
+"Settings.rate" = "Share Your Love";
+"Settings.share" = "Share Us";
+"Settings.contact" = "Customer Support";
+
+// MARK: - Home
+"Home.title" = "Passport Photo";
+"Home.desc" = "Let’s start with selecting your photo";
+
+"Home.photo.title" = "Take Photo";
+"Home.photo.desc" = "Take a photo from camera";
+
+"Home.gallery.title" = "Gallery";
+"Home.gallery.desc" = "Import a photo from iPhone Gallery";
+
+"Home.icloud.title" = "iCloud";
+"Home.icloud.desc" = "Import a photo from iCloud Gallery";
+
+// MARK: - Rating
+"Rating.download.title" = "Photo Downloaded 🎉";
+"Rating.download.desc" = "You’ve downloaded the photo. Now you can see your photo from “Photos” app.";
+
+"Rating.share.title" = "Photo Shared 🎉";
+"Rating.share.desc" = "You’ve successfully shared your passport photo!";
+
+"Rating.print.title" = "Photo Printed 🎉";
+"Rating.print.desc" = "You’ve successfully printed your passport photo!";
+
+"Rating.ready.title" = "Your Photo is Ready 🎉";
+"Rating.ready.desc" = "Your passport photo is ready! Now you can download, share and print. Please take a moment to rate us";
+
+"Rating.onboard.title" = "Please help us to grow 🙏";
+"Rating.onboard.desc" = "Can you show us some love?";
+
+"Rating.sure" = "Sure!";
+"Rating.great" = "Great!";
+"Rating.next" = "Next Time";
+
+"Language.title" = "Change Language";
